@@ -117,7 +117,7 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ## License
 
-MIT — do whatever you want with it.
+MIT — free to use, modify, and distribute, but **you must include the original copyright notice** (attribution to Mostfa Lejri). See [LICENSE](LICENSE).
 
 ---
 
