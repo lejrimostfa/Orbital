@@ -11,6 +11,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<br/>
+
+<img src="public/orbital.png" alt="Orbital — Galaxy Simulation" width="800" />
+
 </div>
 
 ---
